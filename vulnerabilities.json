@@ -1,1 +1,6 @@
+{
+  "Apache/2.2.8": "Outdated Apache version, vulnerable to CVE-2009-3555",
+  "OpenSSH_5.3": "Vulnerable SSH version, CVE-2016-10009",
+  "vsftpd 2.3.4": "Backdoor vulnerability in FTP server"
+}
 
